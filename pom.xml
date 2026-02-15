@@ -23,7 +23,7 @@
         <junit.version>4.13.2</junit.version>
         <logback.version>1.5.6</logback.version>
         <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <sonar.organization>temgoua-beanstalk</sonar.organization>
     </properties>
 
 
